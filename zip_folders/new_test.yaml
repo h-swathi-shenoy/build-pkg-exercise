@@ -1,0 +1,11 @@
+key_0:
+  model_1:
+    clf:
+      params:
+        random_state: 42
+        tree_method: approx
+    transformers:
+      anomaly:
+        key1: value1
+      norm:
+        key1: value2
