@@ -1,3 +1,4 @@
+README.md
 setup.py
 zip_read_yaml/__init__.py
 zip_read_yaml/zip_read.py
